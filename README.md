@@ -1,7 +1,7 @@
 # Linebot-Demo-SendMultiMsgAtOnce
 ## LINE Bot Example : 一次傳送多則訊息
 
-此範例一次傳送多則訊息，並且透過WebHook接收postback回來的時間日期資訊
+此範例一次傳送多則訊息(包含文字、內含QuickReply的Button Template)，並且透過 WebHook 接 收QuickReplyDasteTimePicker postback回來的時間日期資訊
 <img src="https://i.imgur.com/uZBY561.png" />
 
 
